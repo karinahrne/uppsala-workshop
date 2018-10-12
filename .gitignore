@@ -1,0 +1,6 @@
+data/
+results/
+*.pdf
+.bash_profile
+.swp
+.Rproj.user
