@@ -3,4 +3,7 @@ results/
 *.pdf
 .bash_profile
 .swp
+
+!data/feline-data.csv
+
 .Rproj.user
